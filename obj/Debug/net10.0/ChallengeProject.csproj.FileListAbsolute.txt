@@ -1,0 +1,14 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\bin\Debug\net10.0\ChallengeProject.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\bin\Debug\net10.0\ChallengeProject.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\bin\Debug\net10.0\ChallengeProject.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\bin\Debug\net10.0\ChallengeProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\bin\Debug\net10.0\ChallengeProject.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\refint\ChallengeProject.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ChallengeProject.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\ChallengeProject\obj\Debug\net10.0\ref\ChallengeProject.dll
